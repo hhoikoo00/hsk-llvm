@@ -20,7 +20,11 @@ description: Please see the README on GitHub at <https://github.com/hhoikoo00/hs
 
 dependencies:
   - base
+  - text
+  - megaparsec
+  - parser-combinators
   - hspec
+  - hspec-megaparsec
 
 library:
   source-dirs: src
